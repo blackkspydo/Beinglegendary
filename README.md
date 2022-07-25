@@ -6,40 +6,20 @@ Web Developer
 
 I have being a passionate lover of tech learning how to code has been like a life to me. I just can't stop. all Glory to God we are moving forward. we keep learning non stop.
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [legendarycolins@gmail.com](mailto:legendarycolins@gmail.com)
-* 🚀  I'm currently working on [About me website](http://https://beinglegendary.github.io/About-me-page-project/)
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I'm a lover of good knowledge, watching football, Making new friends and Praying. please tell no one.
+* 🌍  I'm based in Nigeria
+* ✉️  You can contact me at [legendarycolins@gmail.com](mailto:legendarycolins@gmail.com)
+* 🚀  I'm currently working on [About me website](http://https://beinglegendary.github.io/About-me-page-project/)
+* 🤝  I'm open to collaborating on Interesting projects
+* ⚡  I'm a lover of good knowledge, watching football, Making new friends and Praying. please tell no one.
 
-### Skills
-
+## 📊 My Github Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEINGLEGENDARY&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" style="width:100%">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEINGLEGENDARY&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=000000&color=FF0000" style="width:100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=Unique-Red&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true">
+<br/>
+There's a lot more. Connect with me:
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href = "https://www.linkedin.com/in/uwabor-collins-086567221//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://twitter.com/CodeByUwabor/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/BEINGLEGENDARY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/uwabor-collins-086567221" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CodeByUwabor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/BEINGLEGENDARY"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BEINGLEGENDARY&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/BEINGLEGENDARY" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEINGLEGENDARY&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
