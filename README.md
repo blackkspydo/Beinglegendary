@@ -8,7 +8,7 @@ I have being a passionate lover of tech learning how to code has been like a lif
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [legendarycolins@gmail.com](mailto:legendarycolins@gmail.com)
-* 🚀  I'm currently working on [About me website](http://https://beinglegendary.github.io/About-me-page-project/)
+* 🚀  I'm currently working on [About me website](http://beinglegendary.github.io/About-me-page-project/)
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm a lover of good knowledge, watching football, Making new friends and Praying. please tell no one.
 
